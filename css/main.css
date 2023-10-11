@@ -46,3 +46,16 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* ///////////////////////////////////////////////// */
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: antiquewhite;
+    color: black;
+}
+
